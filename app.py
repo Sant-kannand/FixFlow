@@ -8,8 +8,8 @@ st.set_page_config(
 )
 
 # Load models
-category_model = joblib.load("models/category_model.pkl")
-priority_model = joblib.load("models/priority_model.pkl")
+category_model = joblib.load("category_model.pkl")
+priority_model = joblib.load("priority_model.pkl")
 st.sidebar.title("🛠️ FixFlow")
 
 st.sidebar.success(
