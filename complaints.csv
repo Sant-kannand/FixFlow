@@ -1,0 +1,9 @@
+ComplaintID,Complaint,Category,Priority,Status
+FF001,wifi not working,Network,High,Resolved
+FF002,no water in hostel classroom,Water,High,Pending
+FF003,FF001,Electricity,High,Pending
+FF004,wifi not working,Network,High,Pending
+FF005,wifi not working,Network,High,Pending
+FF006,wifi not  working,Network,High,Pending
+FF007,no water in hostel,Water,High,Pending
+FF008,internet speed is slow,Network,Medium,Pending

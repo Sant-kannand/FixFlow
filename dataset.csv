@@ -1,0 +1,16 @@
+Complaint,Category,Priority
+WiFi not working in hostel,Network,High
+Internet speed is very slow,Network,Medium
+Unable to connect to college WiFi,Network,High
+No water in hostel bathroom,Water,High
+Water leakage near classroom,Water,Medium
+Drinking water facility not available,Water,High
+Power cut in hostel,Electricity,High
+Classroom lights not working,Electricity,Medium
+Generator is not functioning,Electricity,High
+Hostel room fan not working,Hostel,Medium
+Hostel room cleaning issue,Hostel,Low
+Mess food quality is poor,Hostel,Medium
+College bus arrived late,Transport,Low
+Bus route needs improvement,Transport,Medium
+Not enough buses available,Transport,High
